@@ -1,0 +1,46 @@
+*{
+padding:0; 
+margin:0 
+}
+
+body{
+
+background-image:url("file:///C:/Users/user/Downloads/Nuevo%20proyecto.jpg") ; 
+background-repeat: no-repeat;
+background-size:3000px; 
+}
+
+div{
+	width:50%;
+	height:220px;  
+background-image:url(file:///C:/Users/user/Desktop/PROYECTO.jpg);
+height :250PX;  
+ border:dotted; 
+}
+h1,p{
+text-align:center;  
+}
+img{
+position:relative; 
+left:42%; 
+}
+p{
+font-size:20px; 
+
+}
+div{
+position:relative; 
+top:200px;
+left:300px;  
+}
+a{
+	position:relative;
+	left:41%;
+	top:25px;  
+	text-decoration:none; 
+	border-radius:10px; 
+background:#FA3434;
+color:#fff;
+padding:10px 10px
+
+}

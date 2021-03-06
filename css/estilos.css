@@ -1,0 +1,13 @@
+body{
+background-image:url(file:///C:/Users/user/Pictures/fondo-negro-estrellas-escritorio-1024x575.jpg);  
+
+}
+div{
+background:#fff; 
+width:70%;  
+position:relative;
+top:250px; 
+left:200px;
+border:solid blue  5px;  
+}
+
